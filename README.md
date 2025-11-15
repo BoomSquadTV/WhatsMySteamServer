@@ -12,3 +12,5 @@ Project code © 2025 BoomSquad
 Bundled Python © Python Software Foundation; Tkinter ships under the PSF License.
 Rich (MIT License)
 Custom icon/logo© BoomSquad; do not redistribute without permission.
+<img width="1202" height="669" alt="screenshot1" src="https://github.com/user-attachments/assets/36182fcb-037b-4aa8-8a1f-db39769a4ea2" />
+<img width="1200" height="716" alt="screenshot2" src="https://github.com/user-attachments/assets/24950183-b109-4fa0-b468-fe497e68489b" />
