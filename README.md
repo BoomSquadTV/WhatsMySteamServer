@@ -43,3 +43,5 @@
 
 ![Screenshot 1](https://github.com/user-attachments/assets/36182fcb-037b-4aa8-8a1f-db39769a4ea2)
 ![Screenshot 2](https://github.com/user-attachments/assets/24950183-b109-4fa0-b468-fe497e68489b)
+## Apply New Download Region in Steam!
+<img width="2016" height="1197" alt="screenshot3" src="https://github.com/user-attachments/assets/594d5ea7-d8a2-454e-913f-6b631a14e02c" />
